@@ -1,7 +1,3 @@
-**README mmul_84 configuration **
-
----
-
 ## Vivado HLS (High Level Synthesis)
 
 In this part we are going to work on the synthesis through Vivado HLS software.
